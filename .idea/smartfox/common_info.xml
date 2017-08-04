@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SmartFoxWorkToolsProjectState">
+    <option name="branch" value="20170804" />
     <option name="gitUrl" value="https://github.com/sunxiaoxu0124/mydianshang-manager.git" />
     <option name="localBranch" value="20170804" />
-    <option name="revision" value="25cec2efdd80d21dec48f05523fed85f40d575a2" />
+    <option name="revision" value="5dfde30a414a1db21114de988102781700533d40" />
   </component>
 </project>
